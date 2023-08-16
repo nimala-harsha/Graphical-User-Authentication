@@ -1,0 +1,20 @@
+.background-image {
+    background-image: url('../assets/bg6.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footerLink {
+    color: black;
+    text-decoration: none;
+
+
+}
+.footerLink :hover{
+    color: rgb(10, 2, 78);
+    text-decoration: none;
+}
